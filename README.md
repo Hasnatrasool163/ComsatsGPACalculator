@@ -2,6 +2,7 @@
 ComsatsGPA Calculator implementation in java in javaswing and awt!
 
 This GPA Calculator is a Java Swing application that allows users to calculate their GPA based on course grades and credit hours. It provides a user-friendly interface to input course details and generates a GPA report that can be saved to a text file.
+![Screenshot (793)](https://github.com/Hasnatrasool163/ComsatsGPACalculator/assets/153990457/c4643dc5-2c03-4c8b-9d8d-e3c2aff2bf30)
 
 ## Features
 
