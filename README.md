@@ -25,7 +25,6 @@ This GPA Calculator is a Java Swing application that allows users to calculate t
 
 1. Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/hasnat163/ComsatsGPACalculator.git
 
 Open the project in your preferred IDE.
@@ -42,7 +41,8 @@ Optionally, save the GPA calculation results to a text file by clicking on the "
 
 ![Screenshot (793)](https://github.com/Hasnatrasool163/ComsatsGPACalculator/assets/153990457/be82742f-3223-4a6f-b45c-137c61b934f4)
 
-Contributing
+## Contributing
+
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please fork the repository and create a pull request.
 
-thankyou for reading !
+thankyou for reading.
