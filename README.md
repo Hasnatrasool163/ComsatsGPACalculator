@@ -62,8 +62,6 @@ This GPA Calculator allows users to manage semester and course details, calculat
 7. **Example JSON Data**:
    - Load a sample course like "Computer Networks" (grade ~73.44%, GPA 3.0) from `student_data.json` to see populated fields.
 
-![Sample Course](https://example.com/screenshot-placeholder.jpg) <!-- Replace with actual screenshot link -->
-
 
 ## Changelog
 - **v2.0.4** (July 2025):
